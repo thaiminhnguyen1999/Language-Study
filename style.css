@@ -47,7 +47,7 @@
   font-style: normal;
 }
 
-*{
+* {
      margin: 0;
      padding: 0;
      box-sizing: border-box;
@@ -100,6 +100,8 @@ body{
     );
     box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
   }
+}
+
 .header > h1 {
   font-style: normal;
   font-weight: 600;
