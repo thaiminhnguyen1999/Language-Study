@@ -1,5 +1,5 @@
 # [Language Study](https://languagestudy.pages.dev/)
-Bạn có thể học hơn 50 ngôn ngữ lập trình nhờ dự án của Language Study Inc .
+Bạn có thể học hơn 50 ngôn ngữ lập trình nhờ dự án của ITE Novo Company .
 
 # [Wikipedia](https://vi.wikipedia.org/)
 Language Study là gì?
@@ -55,7 +55,7 @@ Topic : Fixed issue in version 16.1.5
 
 # End - Cuối cùng
 -Vi - VN
-+ Cảm ơn bạn đã theo dõi đến hết file Readme.md này . Hi vọng nó sẽ giúp bạn hiểu hơn về Language Study . Tạm biệt .
++ Cảm ơn bạn đã theo dõi đến hết file README.md này . Hi vọng nó sẽ giúp bạn hiểu hơn về Language Study . Tạm biệt .
 
 -En - US
-+ Thank you for watching to the end of this Readme.md file. Hope it will help you to understand more about Language Study. Bye .
++ Thank you for watching to the end of this README.md file. Hope it will help you to understand more about Language Study. Bye .
