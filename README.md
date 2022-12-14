@@ -10,14 +10,14 @@ Cái tên "Language Study" có ý nghĩa gì?
     - Trong tiếng anh , từ "Language Study" có nghĩa là "Ngôn ngữ học" . Ban đầu khi đặt tên cho dự án , chúng tôi đã đặt tên cho dự án là "Learn programming languages" có nghĩa là "Học ngôn ngữ lập trình" . Nhưng do một số lí do , chúng tôi quyết định đặt tên là "Language Study" .
 Dự án Language Study gồm có những gì?
     - Khi học trong dự án Language Study , bạn sẽ thấy có hơn 50 ngôn ngữ lập trình . Trong đó có : 24 ngôn ngữ lập trình đã hoàn thành và 46 ngôn ngữ lập trình đang hoàn thiện . Các dự án đã hoàn thiện :
-        + [HTML](https://vi.wikipedia.org/wiki/HTML)
-        + [Javascript (JS)](https://vi.wikipedia.org/wiki/JavaScript)
-        + [CSS](https://vi.wikipedia.org/wiki/CSS)
-        + [ReactJS](https://vi.wikipedia.org/wiki/React)
-        + [Java](https://vi.wikipedia.org/wiki/Java_(ngôn_ngữ_lập_trình))
-        + [PhP](https://vi.wikipedia.org/wiki/PHP)
-        + [Scratch (Dành cho trẻ em)](https://vi.wikipedia.org/wiki/Scratch_(ngôn_ngữ_lập_trình))
-        + v.v
+        - [HTML](https://vi.wikipedia.org/wiki/HTML)
+        - [Javascript (JS)](https://vi.wikipedia.org/wiki/JavaScript)
+        - [CSS](https://vi.wikipedia.org/wiki/CSS)
+        - [ReactJS](https://vi.wikipedia.org/wiki/React)
+        - [Java](https://vi.wikipedia.org/wiki/Java_(ngôn_ngữ_lập_trình))
+        - [PhP](https://vi.wikipedia.org/wiki/PHP)
+        - [Scratch (Dành cho trẻ em)](https://vi.wikipedia.org/wiki/Scratch_(ngôn_ngữ_lập_trình))
+        - v.v
 Trong tương lai dự án Language Study sẽ cải thiện thêm như thế nào?
     - Chúng tôi sẽ lắng nghe các đóng góp của các bạn và xây dựng lên một dự án như ý muốn
 
