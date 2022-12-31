@@ -26,7 +26,8 @@ Trong tương lai dự án LanguageDev Study sẽ cải thiện thêm như thế
 - Chúng tôi sẽ lắng nghe các đóng góp của các bạn và xây dựng lên một dự án như ý muốn
 
 # Developer Section
-* The current language used is English. If you don't understand, please use Google Translate attached to the browser *
+* The current language used is English. If you don't understand, please use Google Translate attached to the browser
+* You can join the Developers Team at repositories LanguageDev Study for Developers
 
 Topic : Fixed issue in version 16.1.5
 - Error 12: Website does not exist
