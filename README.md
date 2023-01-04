@@ -1,9 +1,9 @@
 # [LanguageDev Study](https://languagedevstudy.pages.dev/)
-Bạn có thể học hơn 50 ngôn ngữ lập trình nhờ dự án của ITE Novo Company .
+Bạn có thể học hơn 50 ngôn ngữ lập trình nhờ dự án của ITE Novo Technology Joint Stock Company .
 
 # [Wikipedia](https://vi.wikipedia.org/)
 LanguageDev Study là gì?
-- Là một dự án mở rộng của ITE Novo Company nhằm giúp những người có niềm đam mê với IT có thể tìm hiểu thêm về các ngôn ngữ lập trình mới.
+- Là một dự án mở rộng của ITE Novo Technology Joint Stock Company nhằm giúp những người có niềm đam mê với IT có thể tìm hiểu thêm về các ngôn ngữ lập trình mới.
 
 Dự án LanguageDev Study được sáng tạo từ năm nào?
 - Dự án LanguageDev Study được sáng tạo từ năm 2021 , sau đó xuất bản ra mạng xã hội vào năm 2022
