@@ -1,0 +1,19 @@
+{
+  "name": "@thaiminhnguyen1999/languagedev-study",
+  "version": "1.0.0",
+  "description": "Bạn có thể học hơn 50 ngôn ngữ lập trình nhờ dự án của ITE Novo Technology Joint Stock Company .",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaiminhnguyen1999/LanguageDev-Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaiminhnguyen1999/LanguageDev-Study/issues"
+  },
+  "homepage": "https://github.com/thaiminhnguyen1999/LanguageDev-Study#readme"
+}
